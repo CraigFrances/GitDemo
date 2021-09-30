@@ -31,7 +31,8 @@ namespace GitDemo
        // This is a new patch
        // i love making patches
 
-        // commit 1
+        //  commit 1
+        // commit 2
 
 
 
